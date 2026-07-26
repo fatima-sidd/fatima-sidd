@@ -14,6 +14,6 @@
 
   <!-- STICKER 1 -->
   <g transform="translate(580, 60) rotate(-8)">
-    <image href="./stickers/git-it.png" x="0" y="0" width="90" height="90"/>
+    <image href="https://raw.githubusercontent.com/fatima-sidd/fatima-sidd/main/stickers/git-it.png" x="0" y="0" width="90" height="90"/>
   </g>
 </svg>
