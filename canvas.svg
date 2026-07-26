@@ -16,49 +16,7 @@
   </text>
 
   <!-- STICKER 1 -->
-  <g transform="translate(480, 40) rotate(-8)">
-    <image href="./stickers/cat.png" x="0" y="0" width="80" height="80"/>
-  </g>
-
-  <!-- STICKER 2 -->
-  <g transform="translate(580, 85) rotate(12)">
-    <image href="./stickers/coffee.png" x="0" y="0" width="75" height="75"/>
-  </g>
-
-  <!-- STICKER 3 -->
-  <g transform="translate(680, 30) rotate(-14)">
-    <image href="./stickers/sparkle.png" x="0" y="0" width="80" height="80"/>
-  </g>
-</svg>
-<svg width="800" height="220" viewBox="0 0 800 220" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <!-- Dark Background -->
-  <rect width="800" height="220" rx="16" fill="#0f172a"/>
-  <rect x="2" y="2" width="796" height="216" rx="14" fill="#1e293b" stroke="#334155" stroke-width="2"/>
-  
-  <!-- Subtle Grid Lines -->
-  <path d="M0 44H800 M0 88H800 M0 132H800 M0 176H800" stroke="#334155" stroke-width="1" stroke-dasharray="4 4" opacity="0.3"/>
-  <path d="M160 0V220 M320 0V220 M480 0V220 M640 0V220" stroke="#334155" stroke-width="1" stroke-dasharray="4 4" opacity="0.3"/>
-
-  <!-- Canvas Header Text -->
-  <text x="40" y="110" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="800" font-size="34" fill="#f8fafc" letter-spacing="1">
-    FATIMA SIDDIQUI <tspan fill="#806ad2">//</tspan>
-  </text>
-  <text x="40" y="140" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="500" font-size="14" fill="#94a3b8">
-    STICKER BOARD &amp; WORKSPACE ✨
-  </text>
-
-  <!-- STICKER 1 -->
-  <g transform="translate(480, 40) rotate(-8)">
-    <image href="./stickers/git-it.png" x="0" y="0" width="80" height="80"/>
-  </g>
-
-  <!-- STICKER 2 -->
-  <g transform="translate(580, 85) rotate(12)">
-    <image href="./stickers/coffee.png" x="0" y="0" width="75" height="75"/>
-  </g>
-
-  <!-- STICKER 3 -->
-  <g transform="translate(680, 30) rotate(-14)">
-    <image href="./stickers/sparkle.png" x="0" y="0" width="80" height="80"/>
+  <g transform="translate(580, 60) rotate(-8)">
+    <image href="./stickers/git-it.png" x="0" y="0" width="90" height="90"/>
   </g>
 </svg>
