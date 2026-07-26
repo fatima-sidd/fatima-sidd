@@ -7,6 +7,5 @@
 </p>
 
 <div align="center">
-  <!-- Sticker Canvas Banner -->
-  <img src="./canvas.svg" alt="Fatima's Canvas Banner" width="100%" />
+
 </div>
