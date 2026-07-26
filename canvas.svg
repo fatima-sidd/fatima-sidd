@@ -8,11 +8,8 @@
   <path d="M160 0V220 M320 0V220 M480 0V220 M640 0V220" stroke="#334155" stroke-width="1" stroke-dasharray="4 4" opacity="0.3"/>
 
   <!-- Canvas Header Text -->
-  <text x="40" y="110" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="800" font-size="34" fill="#f8fafc" letter-spacing="1">
+  <text x="40" y="125" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="800" font-size="34" fill="#f8fafc" letter-spacing="1">
     FATIMA SIDDIQUI <tspan fill="#806ad2">//</tspan>
-  </text>
-  <text x="40" y="140" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="500" font-size="14" fill="#94a3b8">
-    STICKER BOARD &amp; WORKSPACE ✨
   </text>
 
   <!-- STICKER 1 -->
